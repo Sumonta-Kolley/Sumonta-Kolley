@@ -1,7 +1,14 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sumonta-Kolley&label=Profile%20views&color=0e75b6&style=flat" alt="Sumonta-Kolley" /> </p>
+<h1 align="center">Hi 👋, I'm Sumonta Kolley</h1>
+<h3 align="center">A Commited Developer Building Secure Web Systems in India⚡</h3>
+<img align="center" alt="coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmY2bGJnOW9lZmVrOThqMWE3ZmdkdmdiaGN3ZHUzbjQzNHE3bzUzdiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 
 # 🦾 About Me:
-Hi i am a web Developer 
+I am a dedicated Web Developer and final-year B.Tech student at MAKAUT. I focus on building robust full-stack applications with a strong emphasis on system security and cloud-native architectures
+- 🌱 I’m currently learning **bootstrap**
+
+- 📫 How to reach me **sumontakolley5@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suonta-kolley&label=Profile%20views&color=0e75b6&style=flat" alt="suonta-kolley" /> </p>
 
 
 ## 🌐 Socials:
